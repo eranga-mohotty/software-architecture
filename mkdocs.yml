@@ -1,9 +1,8 @@
-site_name: Awesome Software Architecture
-site_url: https://awesome-architecture.com
+site_name: Software Architecture
 site_description: Curated list of awesome articles and resources to learn and practice about software architecture, patterns and principles.
 docs_dir: 
-repo_name: mehdihadeli/awesome-software-architecture
-repo_url: https://github.com/mehdihadeli/awesome-software-architecture
+repo_name: KodesiaYash/software-architecture
+repo_url: https://github.com/KodesiaYash/software-architecture
 edit_uri: edit/main/docs/
 theme: 
   name: material 
@@ -367,15 +366,4 @@ nav:
   - Systems Design: systems-design/systems-design.md
 - Type Driven Design: type-driven-design.md
 - Vertical Slice Architecture: vertical-slice-architecture.md
-
-copyright: 2023 <a href="https://github.com/mehdihadeli">Mehdi Hadeli</a>.
-#remote_branch: gh-pages 
-#remote_name: origin
-extra:
-  social:
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/mehdi_hadeli
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/mehdihadeli
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/mehdihadeli
+- Code level references: codelevel-references
